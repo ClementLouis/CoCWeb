@@ -259,6 +259,8 @@ aimozg, Amygdala, Cmacleod42, Enterprise2001, Fake - Name, Gedan, Yoffy, et al
 <b>This copy is maintained by loxaxs <u><a href='https://github.com/loxaxs/CoCWeb'>(Source Code)</a></u>, <u><a href='https://github.com/mathieucaroff/CoCWeb/issues'>(Bug Tracker)</a></u></b>
 <b>Ported to the web by end5 <u><a href='https://github.com/end5/CoCWeb'>(Source Code)</a></u></b>
 
+<b>This is a modded version by Cybercatman <u><a href='https://github.com/ClementLouis/CoCWeb'>(Source Code)</a></u></b>
+
 <b><u>DISCLAIMER</u></b>
     <b>- There are many strange and odd fetishes contained in this flash. Peruse at your own risk.</b>
     <b>- Please be 18 or the legal age to view porn before playing.</b>
